@@ -3,7 +3,7 @@
         {
             "location": "/", 
             "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Home"
+            "title": "Welcome to MkDocs"
         }, 
         {
             "location": "/#welcome-to-mkdocs", 
@@ -23,7 +23,7 @@
         {
             "location": "/about/", 
             "text": "Duro dictis nostras ordine auro claudit\n\n\nLurida Hippomenes plura\n\n\nLorem markdownum mors comites momorderat sit qua inmansuetumque mira, mercibus\nprimum omnis ecce tum civibus resilit. Ulixes mihi nymphas? Isto fatentur\ntantummodo primo servantia induruit in figat praeconia forma curvamine est \nsuos\nfugientem\n.\n\n\n\n\nProhibete levis, noverca, me eris \nHiberi\n pavet! Seque mendosa quod forma\nsit, bucera. Tabe cum prima!\n\n\n\n\nTibi vultu pro peragebant dominum clipeum\n\n\nEt Salamis mersa hunc adigitque tantus: et stipite Aulide thalamoque mixta\nmetuam caelum inque gradieris caede orba enim aliquid. Tantaque exspectatus\ndant, dei quam intrare ferenda famam vitam iusta. Iter ista, mergitur\n\ninfelix\n irae trium prima Philemon Ceyce? Saevus\ninquit!\n\n\nNon Seriphi adiecit: resque armata orbus detractare comparat votum fixit in\nluxuriant: \nvirides\n! \nSensit subigebat\nsanguine\n nobis, acta genibus lumine veluti, haeret Echionides insania divinante\ncum seque. Vix limosaque iamque pacalibus pugnae, cupidine sumus, patientem\nexit: veluti.\n\n\nPlumis copia subiectis et astu boumque\n\n\nPhineus quaque. Dum fata, sed tumescere quod \nomnes\n vela deum vidi Martem,\nseposuit iaciuntque tamen exanimesque mater. Est tempore imitantes delapsam. Ubi\nest vidit illius annis levis litora cupido donec unda aut. Mucronem rubentem\nillud quid terrae erant nebulas, tetendi?\n\n\n\n\nTurni tamen micabant hospitibus suos contingere \nlevi tellurem haec\n, et\nspectabat ipse visent. Celsior posses; circum eram umidus armis similisque\nscelus verba quis\n\nhabitabile\n nullos a. Moras\nferre inpedit quoque Danae; vocis viro Troica tenent, nec Faunine Onetor\namicos, est. Media putat corpora \niraeque\n.\n\n\n\n\nPrima vivit promittis foedere bracchia infames, sic tot quod causa emergit, ne\nest struxisse concilio. Ferar dives Phaethonta triformis haec vertitur fontesque\npatet. Vale \nlabentibus placat frustra\n agitantia sub tetigisse oculis\nAgamemnonis amici, Polymestoris.\n\n\nSine illa erat testa montibus flos consueta ad misso, Menephron Hippolytus\ncolla. Lignoque repelli, in \ninrigat\n?", 
-            "title": "About"
+            "title": "Duro dictis nostras ordine auro claudit"
         }, 
         {
             "location": "/about/#duro-dictis-nostras-ordine-auro-claudit", 
